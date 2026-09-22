@@ -13,3 +13,7 @@ Perform Various Git Operations on Local and Remote Repositories using Git Cheat 
 ## Nidhish Contribution
 
 I cloned the remote repository and modified the README file.
+
+## Anushka Contribution
+
+I created the feature1 branch and performed branch merging.
